@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cyL/FiUf4rRrqB7adVNvXoOE7FXb1mPC4mirM1euiYOghN8Sx8gM8p6nPGfCMAAQjBs1W/y7ys7zhwLOhCmGw==",
+  "dgSpecHash": "+ZG1grY2smuaa+vh6l/THG7uM8gsdyC2lrG54z0feBvhBImX2bpu/tVw0urXIIq3wRaprDqR94K3ifIfMv4JFg==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
+  "projectFilePath": "E:\\New folder\\Git\\thegioitruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

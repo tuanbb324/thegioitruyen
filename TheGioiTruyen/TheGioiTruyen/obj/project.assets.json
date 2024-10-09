@@ -3431,11 +3431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New folder\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
+      "projectUniqueName": "E:\\New folder\\Git\\thegioitruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
       "projectName": "TheGioiTruyen",
-      "projectPath": "E:\\New folder\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
+      "projectPath": "E:\\New folder\\Git\\thegioitruyen\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\New folder\\TheGioiTruyen\\TheGioiTruyen\\TheGioiTruyen\\obj\\",
+      "outputPath": "E:\\New folder\\Git\\thegioitruyen\\TheGioiTruyen\\TheGioiTruyen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
