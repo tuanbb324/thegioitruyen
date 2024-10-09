@@ -1,7 +1,9 @@
-﻿namespace TheGioiTruyen.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace TheGioiTruyen.Controllers
 {
 
-    public class UserController
+    public class UserController : Controller
     {
     }
 }
